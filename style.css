@@ -1,0 +1,118 @@
+*{
+
+   margin:0;
+   font-family:"Inter";
+
+}
+
+#divTitulo{
+
+    background-color: #303030;
+    padding: 150px 354px 150px 62px;
+       
+}
+
+#tituloTitulo{
+
+    color: #FFFFFF;
+    font-size: 35px;
+    font-weight: 250px;
+    
+}
+
+#tituloTexto{
+
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 230px;
+    
+}
+
+#bannerInformativo{
+
+    background-color: rgb(241, 243, 243);
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+
+}
+
+#divSobreNos{
+
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    
+
+}
+
+#aSobre{
+
+    padding: 50px;
+
+}
+
+#textoSobre{
+
+    font-size: 18px;
+
+}
+
+#imagem{
+
+   width: 500px;
+}
+
+#divForm{
+
+    background-color: #303030;
+    text-align: center;
+    padding: 50px;
+    
+    
+
+}
+
+#tituloForm{
+
+    color: #FFFFFF;
+    
+    padding: 10px 0px 10px 0px;
+    font-size: 25px;
+    font-weight: 250px;
+
+}
+
+.campo{
+
+     
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 250px;
+    width: 350px;
+    border-radius: 10px;
+
+}
+
+#fale{
+
+    color:white;
+    background-color: #C07212;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 10px;
+    width: 200px;
+   
+
+}
+
+
+
+button:hover{
+    
+    color:#ffffff;
+    transform:translateY(-2px);
+    box-shadow: 0px 15px 20px #c49862;
+
+    }
